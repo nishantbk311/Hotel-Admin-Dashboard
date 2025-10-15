@@ -1,0 +1,3 @@
+{
+  "extends": "react-app" //for react specific eslint, eg: for useEffect dependency
+}
